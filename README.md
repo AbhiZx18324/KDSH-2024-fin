@@ -67,4 +67,4 @@ The dataset used consists of OHLC (Open, High, Low, Close) data from 2018-01-01 
 ## Contributors
 
 - [Abhirup Adhikary](https://github.com/AbhiZx18324)
-- [Ayanak Misra](https://github.com/link)
+- [Ayanak Misra](https://github.com/Ayanak2004)
