@@ -11,7 +11,6 @@ This repository contains the implementation of SARIMA-based and LSTM-based predi
 - [Backtesting and Results](#backtesting-and-results)
 - [Risk Management](#risk-management)
 - [Contributors](#contributors)
-- [License](#license)
 
 ## Introduction
 
